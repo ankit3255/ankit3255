@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankit3255
-- 👀 I’m interested in Software and machine learning
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning coding and DSA
 - 💞️ I’m looking to collaborate on AI with Agricutural 
 - 📫 How to reach me ...
