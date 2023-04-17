@@ -6,7 +6,8 @@
 
 ## About me
 *pursuing my studies at IIT Kharagpur and my interests lie in the field of Compilers, C/C++, Python, and data analytics. Additionally, I actively engage in competitive coding as a means of honing my skills.*
-<img align="right" src="https://tekkieuni.com/wp-content/uploads/2022/03/9.kid_is_coding_in_different_programming_languages.jpg" alt="Coder GIF" height="400" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" src="https://tekkieuni.com/wp-content/uploads/2022/03/9.kid_is_coding_in_different_programming_languages.jpg" alt="Coder GIF" height="200" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 <!---
 ankit3255/ankit3255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
