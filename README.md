@@ -1,6 +1,5 @@
 Hi there, I am Ankit Sharma !! 
 
-![Alt text](https://en.wikipedia.org/wiki/IIT_Kharagpur#/media/File:IIT_Kharagpur_Logo.svg)
 - 👋 Hi, I’m @ankit3255
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning coding and DSA
