@@ -5,12 +5,7 @@
 
 
 ## About me
-
-- 👋 Hi, I’m @ankit3255
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning coding and DSA
-- 💞️ I’m looking to collaborate on AI with Agricutural 
-- 📫 How to reach me ...
+*pursuing my studies at IIT Kharagpur and my interests lie in the field of Compilers, C/C++, Python, and data analytics. Additionally, I actively engage in competitive coding as a means of honing my skills.*
 
 <!---
 ankit3255/ankit3255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
